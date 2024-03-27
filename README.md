@@ -1,6 +1,3 @@
-No, you're correct. The code blocks are not in raw markdown format. Here's the README in raw markdown format:
-
-```markdown
 # Serial Data Extractor and JSON Saver
 
 This Python script is designed to communicate with a serial device, read a directory listing, open specific files, and extract and save JSON content from those files.
@@ -72,7 +69,4 @@ File saved successfully: data_extract/E4_65_B8_80_22_A4_t_1.json
 File opened successfully: /E4:65:B8:80:22:A4/t_2
 File saved successfully: data_extract/E4_65_B8_80_22_A4_t_2.json
 /dev/cu.wchusbserial220 has been closed successfully.
-```
-
-This README provides an overview of the script's functionality, usage instructions, and descriptions of the classes and their methods. Please note that the actual output may vary depending on the data received from the serial device and the JSON content of the files.
 ```
